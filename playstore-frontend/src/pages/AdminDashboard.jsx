@@ -345,7 +345,9 @@ padding:"10px",
 marginBottom:"12px",
 borderRadius:"6px",
 border:"1px solid #ccc",
-background:"white"
+background:"white",
+color:"#000",
+fontSize:"14px"
 };
 
 
